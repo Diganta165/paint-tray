@@ -1,0 +1,10 @@
+
+
+.addToCart-button{
+    color:#E5C07B;
+    background-color: #282c34;
+}
+
+.addToCart-button:hover{
+    color: white;
+}

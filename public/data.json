@@ -1,0 +1,123 @@
+[{
+    "id": 1,
+    "title": "Starry-Night",
+    "artist": "Vincent Van Gogh",
+    "price": 1000,
+    "created": "1889",
+    "movement": " Post-Impressionism, Modern art",
+    "image": "https://en.most-famous-paintings.com/Art.nsf/O/5ZKG47/$File/Vincent-Van-Gogh-Starry-Night.jpg"
+  }, {
+    "id": 2,
+    "title": "The Scream",
+    "artist": "Edvard Munch",
+    "price":1050,
+    "created": "1893",
+    "movement": "Proto-Expressionism",
+    "image": "https://en.most-famous-paintings.com/Art.nsf/O/8XXU4K/$File/Edvard-Munch-The-Scream.jpg"
+  }, {
+    "id": 3,
+    "title": "The Girl with a Pearl Earring",
+    "artist": "Jan Vermeer",
+    "price": 1400,
+    "created": "1665",
+    "movement": "Dutch Golden Age painting",
+    "image": "https://en.most-famous-paintings.com/Art.nsf/O/8XYC2C/$File/Jan-Vermeer-The-Girl-with-a-Pearl-Earring.jpg"
+  }, {
+    "id": 4,
+    "title": "Night Watch",
+    "artist": "Rembrandt Van Rijn",
+    "price": 1700,
+    "created": "1642",
+    "movement": "Baroque, Dutch Golden Age",
+    "image": "https://en.most-famous-paintings.com/Art.nsf/O/8YDJKC/$File/Rembrandt_Van_Rijn-Night_Watch_.JPG"
+  }, {
+    "id": 5,
+    "title": "The Kiss (Bacio)",
+    "artist": "Gustav Klimt",
+    "price": 2000,
+    "created": "1907 - 1908",
+    "movement": "Golden Period",
+    "image": "https://en.most-famous-paintings.com/Art.nsf/O/5ZKCLN/$File/Gustav-Klimt-The-Kiss-Bacio-.jpg"
+  }, {
+    "id": 6,
+    "title": "Water Lilies",
+    "artist": "Claude Monet",
+    "price": 2300,
+    "created": "1920–26",
+    "movement": "soothing and relaxing",
+    "image": "https://en.most-famous-paintings.com/Art.nsf/O/8EWENT/$File/Claude-Monet-Water-Lilies.JPG"
+  
+  }, {
+    "id": 7,
+    "title": "Café Terrace at Night",
+    "artist": "Vincent Van Gogh",
+    "price": 2800 ,
+    "created": "1888",
+    "movement": "Post-Impressionism, Cloisonnism",
+    "image": "https://en.most-famous-paintings.com/Art.nsf/O/5ZKG53/$File/Vincent+Van+Gogh+-+Caf%C3%A9+Terrace+at+Night+.JPG"
+  
+  }, {
+    "id": 8,
+    "title": "Olympia",
+    "artist": "Edouard Manet",
+    "price": 3900,
+    "created": "1863",
+    "movement": "Impressionism, Modern art, Realism",
+    "image": "https://en.most-famous-paintings.com/Art.nsf/O/9H5RBK/$File/EdouardManet-Olympia_Museed_Orsay_Paris(131x190CM)(1863).JPG"
+  }, {
+    "id": 9,
+    "title": "Saturn Devouring His Son",
+    "artist": "Francisco De Goya",
+    "price": 5500,
+    "created": "1819–1823",
+    "movement": "Romanticism",
+    "image": "https://en.most-famous-paintings.com/Art.nsf/O/8XY39P/$File/Francisco_De_Goya-Saturn_Devouring_His_Son.jpg"
+  }, {
+    "id": 10,
+    "title": "Les Demoiselles d'Avignon",
+    "artist": "Pablo Picasso",
+    "price": 2800,
+    "created": "1907",
+    "movement": "Woman",
+    "image": "https://en.most-famous-paintings.com/Art.nsf/O/5ZKH5G/$File/Pablo-Picasso-Les-Demoiselles-d-Avignon.jpg"
+  }, {
+    "id": 11,
+    "title": "Harmony in Red",
+    "artist": "Henri Matisse",
+    "price": 2294,
+    "created": "1908",
+    "movement": "Fauvism, Expressionism",
+    "image": "https://en.most-famous-paintings.com/Art.nsf/O/5ZKCMV/$File/Henri-Matisse-Harmony-in-Red.jpg"
+  }, {
+    "id": 12,
+    "title": "Melancholy",
+    "artist": "Edvard Munch",
+    "price": 2068,
+    "created": "1891",
+    "movement": "Romanticism",
+    "image": "https://en.most-famous-paintings.com/Art.nsf/O/8XXU3N/$File/EdvardMunch-Melancholy.JPG"
+  }, {
+    "id": 13,
+    "title": "The Lamentation over the Dead Christ",
+    "artist": "Andrea Mantegna",
+    "price": 1534,
+    "created": "1485-1501",
+    "movement": "Italian Renaissance",
+    "image": "https://en.most-famous-paintings.com/Art.nsf/O/8DNVVC/$File/Andrea-Mantegna-The-Lamentation-over-the-Dead-Christ.JPG"
+  }, {
+    "id": 14,
+    "title": "The Three Faces",
+    "artist": "Zainul Abedin",
+    "price": 3000,
+    "created": "1968",
+    "movement": "Life",
+    "image": "https://uploads7.wikiart.org/00169/images/zainul-abedin/untitled-the-three-faces-1968.Jpeg!PinterestSmall.Jpeg"
+  }, {
+    "id": 15,
+    "title": "Famine Series",
+    "artist": "Zainul Abedin",
+    "price": 3400,
+    "created": "1953",
+    "movement": "Famine",
+    "image": "https://uploads5.wikiart.org/00169/images/zainul-abedin/famine-series-1953.Jpeg!PinterestSmall.Jpeg"
+  }]

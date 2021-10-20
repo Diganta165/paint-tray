@@ -1,0 +1,23 @@
+/* Header  */
+
+.header{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.header-container{
+    width: 70%;
+    text-align: center;
+    background-color: #282c34;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    border-radius: 5px;
+}
+.header-container h1, h2{
+    color: #E5C07B;
+}
+.header-container h4{
+    font-size: 20px;
+}

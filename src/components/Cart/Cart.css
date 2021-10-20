@@ -1,0 +1,10 @@
+.cart-section{
+    background-color: #282c34;
+    color: white;
+    padding:5px;
+    margin-left: 5px;
+    border-radius: 5px;
+}
+.cart-section h1{
+    color: #E5C07B;
+}
